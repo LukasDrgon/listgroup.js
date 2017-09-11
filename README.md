@@ -7,7 +7,7 @@ To get started checkout http://rickardn.github.io/listgroup.js/
 ## Quick start
 
 - [Download the latest release](https://github.com/rickardn/listgroup.js/zipball/master)
-- or [reference CDN version](https://cdn.jsdelivr.net/bootstrap.listgroup/1.1.2/listgroup.min.js)
+- or [reference CDN version](https://cdn.jsdelivr.net/gh/rickardn/listgroup.js@1.1.2/listgroup.min.js)
 - Reference the `listgroup.js` or `listgroup.min.js` in your HTML document after jQuery
 - Done!
 
